@@ -19,7 +19,9 @@ This project analyzes annual e-commerce sales data to identify key customer segm
 <p align="center">
   <img src="https://raw.githubusercontent.com/sluthra8833/Varinda-Store-Sales-Analysis-Excel-Project/main/Varinda%20Store%20Dashboard%20Image.png" width="800">
 </p>
----
+
+[Download the Dashboard Excel File](https://raw.githubusercontent.com/sluthra8833/Varinda-Store-Sales-Analysis-Excel-Project/main/Varinda%20Store%20Data%20Analysis%20Project.xlsx)
+
 
 ## 🔍 Key Insights
 
